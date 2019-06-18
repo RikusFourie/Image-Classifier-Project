@@ -2,10 +2,10 @@
 ## Image Classifier Project
 
 ## Project Overview
-In this project, I trained an image classifier to recognize different species of flowers. I used tensorflow in order to train the model and classify the images. I ultamately achived a 91.64% accuracy with the image classifier.
+In this project, I trained an image classifier to recognize different species of flowers. I used tensorflow in order to train the model and classify the images. I ultimately achieved a 91.64% accuracy with the image classifier.
 
 ## Data
-Unfortunately the dataset will not be included in the repository as it is too big. The dataset is hosted at this website if you want to download it: http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
+Unfortunately, the dataset will not be included in the repository as it is too big. The dataset is hosted at this website if you want to download it: http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html
 
 ## File Contents
 
